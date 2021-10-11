@@ -25,7 +25,7 @@
  7. The Javascript is a little funky, I hate web development so if anyone wants to fix the javascript please do lol
  8. You can see that I have bash files that executing everything that is being displayed on the website, i am using libimobiledevice to query, and i'm sure if you're even reading this you can get the point I am making. you can just use Apple's own Apple Configurator 2 for this exploit, you don't even need to install libimobiledevice if you don't want to. 
 
-#### This version of the Remote Code Execution uses Airdrop, and the issue is that you can send a website to a device that has been trusted and take control of this device...there is never any prompts that show up on the device at all. 
+#### This version of the Raging Colossal Erection uses Airdrop, and the issue is that you can send a website to a device that has been trusted and take control of this device...there is never any prompts that show up on the device at all. 
 ## NOTE: THIS CAN BE DONE EVEN IF THE PHONE IS LOCKED WITH A PASSCODE, WAKE THE SCREEN SO THAT AIRDROP SHOWS UP AND SHARE THE WEBSITE WITH THE PHONE YOU ARE ATTACKING AND YOU NOW HAVE CONTROL
 
 ### If wi-fi sync is enabled on this device you can now execute wireless commands to the device.
@@ -40,7 +40,7 @@
 
 ### There are "security experts" that are saying this is not an RCE...
 
-### If you can control someone's phone without them knowing and without their approval, it's called a Remote Code Execution, if you can wipe their phone without them knowing or approving its called a remote code execution...what is the process that executes on the phone when the phone is wiped? Oh code is executed with the phone is wiped? SMH....
+### If you can control someone's phone without them knowing and without their approval, it's called a Raging Colossal  Erection, if you can wipe their phone without them knowing or approving its called a raging colossal erection...what is the process that executes on the phone when the phone is wiped? Oh code is executed with the phone is wiped? SMH....
 
 
 
